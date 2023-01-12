@@ -8,7 +8,7 @@
   "dependencies": {
     "phoenix": "file:../deps/phoenix",
     "phoenix_html": "file:../deps/phoenix_html",
-    "svelte": "^3.17.2",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "terser-webpack-plugin": "^2.3.2"
   },
